@@ -2,7 +2,7 @@
 
 Drawing upon my extensive background in process engineering, manufacturing, and the food and beverage industry, I offer a distinct viewpoint when it comes to Software Engineering. Through my proficiency in understanding user behavior and dissecting intricate systems, I possess the ability to craft user-friendly interfaces and construct robust applications that precisely meet users' requirements. By capitalizing on my knowledge in process engineering, I thrive in collaborative settings, working seamlessly with diverse teams to deliver top-notch software solutions that have a positive impact. Transitioning from the realm of food and beverage to Software Engineering has endowed me with a well-rounded skill set, enabling me to bridge the divide between technology and human experiences. Consequently, I am able to develop meaningful and user-centric software products that truly resonate with individuals.
 
-Proficiencies in...
+### Proficiencies in...
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -19,6 +19,12 @@ Proficiencies in...
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+
+
+### Check out some of my projects!
+[AltTrails](https://alttrails.onrender.com/)
+[Jumpstarter](https://jumpstarter.onrender.com/)
+[RareBnB](https://airbnb-api-jcqs.onrender.com)
 <!--
 **Jhulford88/Jhulford88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
