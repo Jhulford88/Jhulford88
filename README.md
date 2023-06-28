@@ -23,7 +23,9 @@ Drawing upon my extensive background in process engineering, manufacturing, and 
 
 ### Check out some of my projects!
 [AltTrails](https://alttrails.onrender.com/)
+
 [Jumpstarter](https://jumpstarter.onrender.com/)
+
 [RareBnB](https://airbnb-api-jcqs.onrender.com)
 <!--
 **Jhulford88/Jhulford88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
